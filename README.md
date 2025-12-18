@@ -1,5 +1,6 @@
 
-Hey there! <img width="35" height="35" alt="image" src="[https://github.com/user-attachments/assets/2e76338c-bdbc-49d0-b486-d46a9fac2940](https://camo.githubusercontent.com/9fcde363f6e46385fd7bc47ef8edd937acaa2c872216105ab0475369f1c1a005/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966)" />
+Hey there! <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/93359ef6-87f5-4fac-9fc0-2561434b48b4" />
+
 
 I’m Liza, a software engineer based in Belarus.
 
