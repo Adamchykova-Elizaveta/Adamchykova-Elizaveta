@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**Adamchykova-Elizaveta/Adamchykova-Elizaveta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there!
+I’m Liza, a software engineer based in Belarus.
 
-Here are some ideas to get you started:
+I have 2 years of professional experience and a higher education in engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea comes to my mind, I’ll most likely dive into the required materials, learn what’s needed, and bring it to life.
+
+My main tech stack includes Java, Python, HTML, CSS, and Spring. I also work with tools like Figma and Blender.
+
+I enjoy building things, learning new technologies, and constantly improving my skills.
+
+Fun Facts:
+
+  - I have a favorite corgi dog 🐶
+
+  - I love learning new things
+
+  - Books are my passion
+
+  - I enjoy sports
