@@ -1,5 +1,5 @@
 
-Hey there! <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/2e76338c-bdbc-49d0-b486-d46a9fac2940" />
+Hey there! <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/2e76338c-bdbc-49d0-b486-d46a9fac2940" />
 
 I’m Liza, a software engineer based in Belarus.
 
